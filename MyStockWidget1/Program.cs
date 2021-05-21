@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//xDDDDDDDDDDDDDD
+
 
 namespace MyStockWidget1
 {
@@ -18,6 +20,8 @@ namespace MyStockWidget1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            //komentarz testowy
         }
 
        
