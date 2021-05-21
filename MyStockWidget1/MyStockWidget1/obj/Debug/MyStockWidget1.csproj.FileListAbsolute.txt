@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\bin\Debug\MyStockWidget1.exe.config
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\bin\Debug\MyStockWidget1.exe
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\bin\Debug\MyStockWidget1.pdb
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.Form1.resources
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.Properties.Resources.resources
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.exe
+C:\Users\user\source\repos\MyStockWidget1\MyStockWidget1\obj\Debug\MyStockWidget1.pdb
