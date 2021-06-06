@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStockWidget1", "MyStockWidget1\MyStockWidget1.csproj", "{CD9884E6-3B70-4A67-99E7-09A870B68DF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStockWidget1", "MyStockWidget1.csproj", "{CD9884E6-3B70-4A67-99E7-09A870B68DF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

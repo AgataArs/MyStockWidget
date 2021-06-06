@@ -18,9 +18,7 @@ namespace MyStockWidget1
             InitializeComponent();
         }
 
-       public void 
-
-
+       
 
     }
 }
