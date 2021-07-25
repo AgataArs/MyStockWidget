@@ -18,7 +18,19 @@ namespace MyStockWidget1
             InitializeComponent();
         }
 
-       
+        private void btnShowMe_Click_Click(object sender, EventArgs e)
+        {
+            
+           
+           
 
+
+
+
+
+        }
+
+       
     }
-}
+    }
+
